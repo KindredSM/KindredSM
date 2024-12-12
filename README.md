@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Kindred, I am a frontend-focused software engineer based in Brighton, UK.
+My name is Kindred, I am a software engineer based in Brighton, UK.
 
-- 🔭 I’m currently using Vue.js, Next.js, JavaScript, TypeScript, Tailwind, Figma and more to design and build front-end applications and websites for companies across the globe 🌍
+- 🔭 I’m currently building applications and websites for companies across the globe 🌍
 
 - 📫 How to reach me:
   - Email: [kindred@kindredsalway.com](mailto:kindred@kindredsalway.com)
